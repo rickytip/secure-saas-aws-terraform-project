@@ -31,5 +31,9 @@ This project is based on the AWS SaaS architecture pattern and includes:
 
 - SSM Parameter Store for secure configuration and secret management
 
-  ![3E91A617-09D1-4669-B2E5-2209CF190D8F](https://github.com/user-attachments/assets/2cbca992-2a97-4912-8461-cbdba0d809a5)
+📚 Workshop Reference
+
+This project is based on the AWS SaaS Workshop:https://catalog.us-east-1.prod.workshops.aws/workshops/40e3080c-4cdd-4dcd-8768-6ebcadc11f81/en-US
+
+ ![3E91A617-09D1-4669-B2E5-2209CF190D8F](https://github.com/user-attachments/assets/2cbca992-2a97-4912-8461-cbdba0d809a5)
 
