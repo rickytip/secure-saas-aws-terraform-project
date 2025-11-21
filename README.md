@@ -1,5 +1,5 @@
 # secure-saas-aws-terraform-project
-This project is my Terraform-driven recreation of an AWS SaaS application workshop. Instead of clicking through the console, I’m writing every component as code—identity, storage, APIs, automation, and frontend delivery. The goal is to build deep understanding of AWS security patterns while improving my Terraform skills
+This project is my Terraform-driven recreation of an AWS SaaS application workshop. Instead of clicking through the console, I’m writing every component as code, identity, storage, APIs, automation, and frontend delivery. The goal is to build deep understanding of AWS security patterns while improving my Terraform skills
 
 📌 Project Goals
 
